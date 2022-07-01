@@ -1,1 +1,1 @@
-# JS
+# tasks from codewars
